@@ -1,9 +1,9 @@
-import concurrent.futures
-from multiprocessing.dummy import freeze_support
-from LegitimateTest import generate_data_set
+#import concurrent.futures
+#from multiprocessing.dummy import freeze_support
+#from LegitimateTest import generate_data_set
 #import pandas as pd
 #from openpyxl import load_workbook
-from multiprocessing import Pool
+#from multiprocessing import Pool
 
 """data = pd.read_csv("verified_online.csv")
 data_frame = pd.DataFrame(data)

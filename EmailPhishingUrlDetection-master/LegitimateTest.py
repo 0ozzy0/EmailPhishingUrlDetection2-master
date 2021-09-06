@@ -1,17 +1,12 @@
-import concurrent.futures
-import ipaddress
 import re
-import pandas as pd
 import urllib.request
 from bs4 import BeautifulSoup
-import socket
-from googlesearch import search
 import requests
 import whois
 from datetime import datetime, date
 import time
 import datetime
-from dateutil.parser import parse as date_parse
+
 
 
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:65.0) Gecko/20100101 Firefox/65.0"
